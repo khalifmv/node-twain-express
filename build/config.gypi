@@ -2,7 +2,7 @@
 {
   "target_defaults": {
     "cflags": [],
-    "default_configuration": "Debug",
+    "default_configuration": "Release",
     "defines": [],
     "include_dirs": [],
     "libraries": [],
@@ -362,7 +362,7 @@
     "globalconfig": "C:\\Users\\akhma\\AppData\\Roaming\\npm\\etc\\npmrc",
     "global_prefix": "C:\\Users\\akhma\\AppData\\Roaming\\npm",
     "init_module": "C:\\Users\\akhma\\.npm-init.js",
-    "local_prefix": "D:\\Developments\\ANGULAR\\express-node-twain\\node-twain",
+    "local_prefix": "D:\\Developments\\ANGULAR\\backup\\node-twain",
     "metrics_registry": "https://registry.npmjs.org/",
     "node_gyp": "C:\\Users\\akhma\\AppData\\Roaming\\nvm\\v16.16.0\\node_modules\\npm\\node_modules\\node-gyp\\bin\\node-gyp.js",
     "prefix": "C:\\Users\\akhma\\AppData\\Roaming\\npm",

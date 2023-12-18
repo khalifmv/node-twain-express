@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{393ED16A-8A0E-3608-C47C-5FB6150B1877}</ProjectGuid>
+    <ProjectGuid>{4B9915C5-3FCD-9D19-863F-161EFF8474D4}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>twain</RootNamespace>
     <IgnoreWarnCompileDuplicatedFilename>true</IgnoreWarnCompileDuplicatedFilename>
@@ -146,7 +146,7 @@
     <ClCompile Include="..\src\TwainSDK.cpp">
       <ObjectFileName>$(IntDir)\src\TwainSDK.obj</ObjectFileName>
     </ClCompile>
-    <ClCompile Include="D:\Developments\ANGULAR\express-node-twain\node-twain\node_modules\node-gyp\src\win_delay_load_hook.cc"/>
+    <ClCompile Include="D:\Developments\ANGULAR\backup\node-twain\node_modules\node-gyp\src\win_delay_load_hook.cc"/>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets"/>
   <Import Project="$(VCTargetsPath)\BuildCustomizations\masm.targets"/>
